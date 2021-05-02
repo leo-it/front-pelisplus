@@ -1,2 +1,2 @@
 # PelisPlus
-##Proyecto final de Comunidad IT 2021
+Proyecto final de Comunidad IT 2021
